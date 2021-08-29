@@ -1,0 +1,5 @@
+{
+	"name": "@modules/style",
+	"version": "1.0.0",
+	"entry": "index.js"
+}

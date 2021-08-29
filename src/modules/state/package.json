@@ -1,0 +1,5 @@
+{
+	"name": "@modules/state",
+	"version": "1.0.0",
+	"entry": "index.js"
+}
