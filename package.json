@@ -20,14 +20,12 @@
 		"wdio-chromedriver-service": "^7.2.0"
 	},
 	"dependencies": {
-		"@modules/hoc": "file:src/modules/hoc",
-		"@modules/routing": "file:src/modules/routing",
-		"@modules/state": "file:src/modules/state",
-		"@modules/style": "file:src/modules/style",
-		"@modules/utilitary": "file:src/modules/utilitary",
+		"lodash": "^4.17.21",
+		"polished": "^4.1.3",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
 		"react-redux": "^7.2.4",
+		"react-router-dom": "^5.2.1",
 		"recharts": "^2.1.2",
 		"redux": "^4.1.1",
 		"redux-thunk": "^2.3.0",
